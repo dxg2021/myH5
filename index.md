@@ -5,11 +5,7 @@
     <title>唐诗一首</title>
   </head>
   <body>
-    <style type="s1">
-      body {
-        background-image: url(01.jpg);
-      background-size: 100%;
-      height: 100%;
+    <img scr="1.jpg"/>
       
       }
      
