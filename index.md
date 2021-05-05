@@ -7,7 +7,7 @@
     <style type="ss">
       body {
         background-image: url(.2jpg);
-        background-repeat: 100% 100%;
+        background-size: 100% 100%;
 
         size: 100%;
       }
@@ -17,7 +17,7 @@
     </style>
   </head>
   <body>
-   
+    
 
     <h1>静夜思</h1>
     <p>床前明月光</p>
