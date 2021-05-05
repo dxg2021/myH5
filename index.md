@@ -6,7 +6,7 @@
 
     <style type="ss">
       body {
-        background-image: url(./2.jpg);
+        background-image: url(./1.jpg);
        
       }
      
