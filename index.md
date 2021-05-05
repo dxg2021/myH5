@@ -6,7 +6,7 @@
 
     <style type="ss">
       body {
-        background-image: url(./gh-pages/1.jpg);
+        background-image: url(././1.jpg);
       }
     </style>
   </head>
