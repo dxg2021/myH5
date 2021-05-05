@@ -7,14 +7,10 @@
     <style type="ss">
       body {
         background-image: url(./1.jpg);
-       
       }
-     
     </style>
   </head>
   <body>
-    
-
     <h1>静夜思</h1>
     <p>床前明月光</p>
     <p>疑是地上霜</p>
