@@ -7,13 +7,8 @@
   <body>
     <img scr="1.jpg"/>
       
-      }
-     
+    
 
-html{
-
-    height: 100%;
-}
 
     </style>
 
