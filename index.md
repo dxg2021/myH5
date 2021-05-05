@@ -5,9 +5,18 @@
     <title>唐诗一首</title>
   </head>
   <body>
-      <img src="1.jpg" \>
-      <img src="2.jpg" \>
+      <style type="s1"> 
 
+     body{
+background-image: url("1.jpg");
+
+     }
+
+
+
+
+
+      </style>
 
     <h1>静夜思</h1>
     <p>床前明月光</p>
